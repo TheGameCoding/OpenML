@@ -1,1 +1,1 @@
-# OpenML
+# OpenMLGC
